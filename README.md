@@ -7,7 +7,7 @@
 * http://qiita.com/upinetree
 * http://upinetree.hatenablog.com/
 
-万葉という会社で働いています。
+[万葉](http://www.everyleaf.com/)という会社で働いています。
 ふだんは受託でRailsアプリを作るお仕事をしています。
 
 好きなゲームはマインクラフトです。
